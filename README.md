@@ -15,6 +15,6 @@ new lists coming
 </p>
 
 
-<a href="Collections-and-Lists/LICENSE.txt">Licence
+<a href="./LICENSE">License
 <p></p>
 
