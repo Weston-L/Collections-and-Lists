@@ -10,10 +10,10 @@
       <a href="./capitalized_lastnames_english.txt">Last Names (English)</a>
       </li>
       <li>
-      new lists coming
+      <a href="./list-of-all-color-customization-options-for-vs-code.md"> A blank palette of the common tokens for "editor.tokenColorCustomizations", to put it into your VS Code, so you can change the colours and styles in your editor.</a>
       </li>
       <li>
-      <a href=https://github.com/Weston-L/Collections-and-Lists/blob/main/list-of-all-color-customization-options-for-vs-code.md
+      new lists coming
       </li>
 </lu>
 </p>
